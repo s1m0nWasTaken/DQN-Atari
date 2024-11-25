@@ -3,6 +3,6 @@ Implement a Reinforcement Learning (RL) agent using a Deep Q Network (DQN) appli
 
 
 # Contributors:
-Boris Bobylkov - 21317097
-Italo Terto da Silva - 21326312
-Szymon Szulc - 21323208
+- Boris Bobylkov - 21317097
+- Italo Terto da Silva - 21326312
+- Szymon Szulc - 21323208
